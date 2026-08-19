@@ -1,6 +1,6 @@
 # CivicFix AI
 
-AI-powered smart city problem reporting and prioritization system.
+AI-powered smart city problem reporting and prioritization system
 
 ## 🚀 Live Demo
 
